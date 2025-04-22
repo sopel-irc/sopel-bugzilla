@@ -14,7 +14,7 @@ readme = { file=["README.md", "NEWS"], content-type="text/markdown" }
 
 [project]
 name = "sopel-bugzilla"
-version = "0.1.0"
+version = "0.2.0"
 description = "Domain-based Bugzilla link handler plugin for Sopel IRC bots."
 
 authors = [
